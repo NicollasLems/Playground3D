@@ -1,8 +1,8 @@
 # Playground3D
 
-Nome da dupla: Nicollas Lemes e Matheus Henrique 
+Nome da dupla: Nicollas Lemes e Matheus Henrique. 
 
-Idealização do projeto: playground com comidas antropomorficas
+Idealização do projeto: Montar um playground com crianças frutas brincando.
 
 Realização: Primeiro definimos um 3D object para ser o nosso chão, nesse caso foi utilizado o plane (plano).
 
