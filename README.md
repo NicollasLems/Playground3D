@@ -14,3 +14,7 @@ Também aplicamos físicas como o rigidbody e criamos um "new physic material" a
 
 Foto referente ao projeto após finalização:
 ![49dc7c03-184f-4e7e-8fbd-d61d11f2dc61](https://github.com/NicollasLems/Playground3D/assets/160983146/8e1390f8-4b17-404b-bef2-6f1b400fc032)
+
+
+https://github.com/NicollasLems/Playground3D/assets/160983146/43584b63-0a87-42cd-9cc7-3bff0d6b820f
+
